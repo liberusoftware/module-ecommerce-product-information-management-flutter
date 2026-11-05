@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-product-information-management-flutter",
+  "capabilityKey": "planned:ecommerce:product-information-management",
+  "presentation": "mobile-flutter",
+  "package": "module_ecommerce_product_information_management_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/ecommerce/nextjs/product-information-management.md",
+  "presentationPlan": "projects/ecommerce/flutter/product-information-management.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
